@@ -15,6 +15,9 @@ xposed通用脚手架
 
 加入一个实验性的功能 DescriptionFindClass 通过描述寻找class
 
+[分支 dev_DescriptionFindClass](https://github.com/HuRuWo/UniXposed/tree/dev_DescriptionFindClass)
+
+
 易用的Xposed脚手架，旨在解决软件版本之间的由于混淆导致的各种类名无法find问题。解决即使软件更新或者用户有各种各样的版本的情况下依然可以hook生效。
 
 混淆导致的hook失效
